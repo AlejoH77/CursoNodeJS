@@ -1,0 +1,11 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Entrega #1 del curso \"introducción a Node.JS\"",
+  "main": "HU.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro Herrera alherrerapa@unal.edu.co",
+  "license": "ISC"
+}
