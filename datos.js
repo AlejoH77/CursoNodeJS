@@ -22,7 +22,7 @@ let listarCursos = (cursos) => {
 		(function(i){
 			setTimeout(function(){
 				curso = cursos[i];
-				console.log("El curso se llama " + curso.nombre + " tiene una duración de " + curso.duracion + " horas y un valor de " + curso.valor + " pesos.");
+				console.log("El curso con el id " + curso.id  + " llamado " + curso.nombre + " tiene una duración de " + curso.duracion + " horas y un valor de " + curso.valor + " pesos.");
 			}, 2000 * (i+1))
 		})(i);
 	}

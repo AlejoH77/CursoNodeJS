@@ -1,0 +1,23 @@
+{
+  "name": "entrega-1",
+  "version": "1.0.0",
+  "description": "Esta es la primera entrega del curso de introducción a NodeJs",
+  "main": "cursos.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejoH77/Entrega1.git"
+  },
+  "author": "Alejandro Herrera alherrerapa@unal.edu.co",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlejoH77/Entrega1/issues"
+  },
+  "homepage": "https://github.com/AlejoH77/Entrega1#readme"
+}
